@@ -2,5 +2,5 @@ build/
 .gradle/
 .idea/
 *.iml
-/eclipse/
-!/eclipse/mods/*.jar
+eclipse/
+!eclipse/mods/
